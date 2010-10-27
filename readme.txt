@@ -1,3 +1,4 @@
-New file for first commit
+This is simple project for java learning and test
+
 
 
