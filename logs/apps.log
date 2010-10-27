@@ -1,0 +1,801 @@
+2009-12-01 15:53:42,162 INFO  [main] com.serb.collection.TestCollections - dvdInfo created []
+2009-12-01 15:53:42,162 INFO  [main] com.serb.collection.TestCollections - dvdInfo sorted using GenreSort Comparator []
+2009-12-01 15:54:29,865 INFO  [main] com.serb.collection.TestCollections - dvdInfo created [aVrw6N68g3 g9IbsOBdSFD38u6 2bi1Nv6Rj5
+, v8W5bvGbUj e1jj8isHQYXfK6Q 9N8z34lRon
+, 9I46Z5Rqvr gg0J79LOJD863zH 6gdyzJmGcx
+, JAp146Te02 D6G1RuUy8Ovz1qi 2v7FJV2qG6
+, 3HBKfh8Uz3 thwVWbN2k6BRae8 8u1Xjp6qS8
+, gwPEbvhVsq X2iQ1Ch6uu9o2b1 133DO4785A
+, B655fSg1z7 K7N0zOVf9BKgSf9 e933VPJzMW
+, AD6SZw72hq F407IlgOWnSJaUS MYiJ68ahc7
+, 472Xv84eGw 1D48gZ282Kv2ukI 7JR8Sn02nT
+, Od6ywW2Fyh L96fbcs2i7X6pdj Fsjr4j77VE
+]
+2009-12-01 15:54:29,881 INFO  [main] com.serb.collection.TestCollections - dvdInfo sorted using GenreSort Comparator [472Xv84eGw 1D48gZ282Kv2ukI 7JR8Sn02nT
+, JAp146Te02 D6G1RuUy8Ovz1qi 2v7FJV2qG6
+, AD6SZw72hq F407IlgOWnSJaUS MYiJ68ahc7
+, B655fSg1z7 K7N0zOVf9BKgSf9 e933VPJzMW
+, Od6ywW2Fyh L96fbcs2i7X6pdj Fsjr4j77VE
+, gwPEbvhVsq X2iQ1Ch6uu9o2b1 133DO4785A
+, v8W5bvGbUj e1jj8isHQYXfK6Q 9N8z34lRon
+, aVrw6N68g3 g9IbsOBdSFD38u6 2bi1Nv6Rj5
+, 9I46Z5Rqvr gg0J79LOJD863zH 6gdyzJmGcx
+, 3HBKfh8Uz3 thwVWbN2k6BRae8 8u1Xjp6qS8
+]
+2009-12-01 16:06:46,965 INFO  [main] com.serb.collection.TestCollections - dvdInfo created [bf8b4 Comedy L7dVP
+, m6TSF Comedy 6bc6E
+, 0L375 Animation VIh55
+, wn3su Animation ydX5P
+, us8mO Horror X3uEn
+, aNGxN Animation kWwdJ
+, RruqG Animation DS3M8
+, 81Mn6 Horror 6TeOu
+, 3H61s Horror 7KTQK
+, M7sO4 Horror 3SHW0
+]
+2009-12-01 16:06:46,965 INFO  [main] com.serb.collection.TestCollections - dvdInfo sorted using GenreSort Comparator [0L375 Animation VIh55
+, wn3su Animation ydX5P
+, aNGxN Animation kWwdJ
+, RruqG Animation DS3M8
+, bf8b4 Comedy L7dVP
+, m6TSF Comedy 6bc6E
+, us8mO Horror X3uEn
+, 81Mn6 Horror 6TeOu
+, 3H61s Horror 7KTQK
+, M7sO4 Horror 3SHW0
+]
+2009-12-01 16:09:38,010 INFO  [main] com.serb.collection.TestCollections - dvdInfo created [NZd Animation Tz9
+, 85p Romance tct
+, yby Comedy ZCT
+, 7ie Animation 31Z
+, qL5 Western cQ2
+, Q71 Romance 36g
+, 12t Comedy WWB
+, s3F Musicals xA2
+, 1zu Musicals PQQ
+, Ic8 Musicals FJg
+]
+2009-12-01 16:09:38,010 INFO  [main] com.serb.collection.TestCollections - dvdInfo sorted using GenreSort Comparator [NZd Animation Tz9
+, 7ie Animation 31Z
+, yby Comedy ZCT
+, 12t Comedy WWB
+, s3F Musicals xA2
+, 1zu Musicals PQQ
+, Ic8 Musicals FJg
+, 85p Romance tct
+, Q71 Romance 36g
+, qL5 Western cQ2
+]
+2009-12-01 16:11:14,508 INFO  [main] com.serb.collection.TestCollections - dvdInfo created:
+[72a Western 2U0
+, 3U7 Animation Z9n
+, vdh Comedy 7op
+, 5vT Romance UK9
+, 1S7 Romance Sr7
+, 68j Comedy Q7V
+, 7iC Western US1
+, AWC Western qQL
+, CuW Animation P46
+, MIp Western Iwf
+]
+2009-12-01 16:11:14,508 INFO  [main] com.serb.collection.TestCollections - dvdInfo sorted using GenreSort Comparator:
+[3U7 Animation Z9n
+, CuW Animation P46
+, vdh Comedy 7op
+, 68j Comedy Q7V
+, 5vT Romance UK9
+, 1S7 Romance Sr7
+, 72a Western 2U0
+, 7iC Western US1
+, AWC Western qQL
+, MIp Western Iwf
+]
+2009-12-01 16:11:44,586 INFO  [main] com.serb.collection.TestCollections - dvdInfo created:
+[mFZ Horror 2ic
+, 9sm Animation 0I7
+, ru9 Musicals YW4
+, hL3 Romance 6B5
+, QZ8 Horror 4Tu
+, D3e Musicals N45
+, EKv Comedy 77U
+, VY9 Animation 6hd
+, 1DA Musicals P6f
+, xM5 Romance 31E
+, 7ti Romance VRS
+, Oe8 Musicals 3B7
+, 0q6 Horror kzp
+, IYo Musicals el0
+, OL6 Animation j47
+, oc2 Animation lNo
+, OY0 Comedy 6S8
+, 54V Western HOV
+, dMY Animation K31
+, 2zI Western 892
+, 7C4 Animation 3h5
+, 1JN Horror A9K
+, Obw Horror ugc
+, 1P5 Horror E9V
+, h43 Comedy 2Qa
+, 8Bp Comedy 9BI
+, 9N5 Horror 96K
+, R3J Western 1e6
+, 2VD Western WeI
+, 7M5 Western 2E1
+, HBT Western vyX
+, NDS Comedy 6vT
+, ysD Horror e36
+, 397 Comedy 1J0
+, k6Y Romance g36
+, vRI Western 9I9
+, NxL Animation 672
+, K15 Romance 5d1
+, ttH Romance 7IW
+, tDE Animation 2mH
+, 5N8 Animation VXE
+, 78Z Animation eOF
+, 0o4 Animation 91Z
+, fk0 Comedy uZ5
+, jou Animation oHb
+, S4t Horror 3cR
+, 25w Animation W09
+, jFz Horror x57
+, 763 Musicals 1UK
+, 423 Horror q1Y
+, ejO Western I35
+, H5I Horror NN8
+, ZzZ Comedy arN
+, 9aG Romance vGx
+, 67P Comedy k5r
+, VUL Musicals 46y
+, j6Y Romance 3lA
+, QhL Romance 38L
+, Vzh Horror R6m
+, Mv4 Romance lGj
+, 8Tl Animation j88
+, i4x Romance GgJ
+, G06 Western pZW
+, twb Romance Zxk
+, 7EX Western AX6
+, INY Animation 13h
+, ase Musicals 7uj
+, 454 Comedy BWO
+, 0r0 Comedy wYG
+, JMx Horror 7P2
+, 3nJ Musicals L8h
+, uy0 Romance ghj
+, 46Q Animation s33
+, 59u Musicals 2KD
+, cU2 Horror xTq
+, r9Q Romance 1qp
+, lsx Western g5a
+, 13J Animation 3B4
+, PkX Animation F5l
+, EW3 Romance HAT
+, 0nd Comedy rH5
+, 1sR Horror x1g
+, tZ8 Musicals wls
+, Yd4 Animation 0j8
+, etp Horror 442
+, 5hZ Horror JuA
+, 45T Romance WWH
+, lOD Musicals pM9
+, hQA Comedy Wix
+, DLX Romance 8Fq
+, 29K Animation DA6
+, wII Western oIl
+, 40z Western xt1
+, OZ8 Western YyW
+, 9l0 Musicals m6h
+, 201 Comedy 3Xq
+, AR0 Animation 23W
+, CZE Romance 5g1
+, N0d Comedy U22
+, Sxk Comedy jMj
+]
+2009-12-01 16:11:44,602 INFO  [main] com.serb.collection.TestCollections - dvdInfo sorted using GenreSort Comparator:
+[9sm Animation 0I7
+, VY9 Animation 6hd
+, OL6 Animation j47
+, oc2 Animation lNo
+, dMY Animation K31
+, 7C4 Animation 3h5
+, NxL Animation 672
+, tDE Animation 2mH
+, 5N8 Animation VXE
+, 78Z Animation eOF
+, 0o4 Animation 91Z
+, jou Animation oHb
+, 25w Animation W09
+, 8Tl Animation j88
+, INY Animation 13h
+, 46Q Animation s33
+, 13J Animation 3B4
+, PkX Animation F5l
+, Yd4 Animation 0j8
+, 29K Animation DA6
+, AR0 Animation 23W
+, EKv Comedy 77U
+, OY0 Comedy 6S8
+, h43 Comedy 2Qa
+, 8Bp Comedy 9BI
+, NDS Comedy 6vT
+, 397 Comedy 1J0
+, fk0 Comedy uZ5
+, ZzZ Comedy arN
+, 67P Comedy k5r
+, 454 Comedy BWO
+, 0r0 Comedy wYG
+, 0nd Comedy rH5
+, hQA Comedy Wix
+, 201 Comedy 3Xq
+, N0d Comedy U22
+, Sxk Comedy jMj
+, mFZ Horror 2ic
+, QZ8 Horror 4Tu
+, 0q6 Horror kzp
+, 1JN Horror A9K
+, Obw Horror ugc
+, 1P5 Horror E9V
+, 9N5 Horror 96K
+, ysD Horror e36
+, S4t Horror 3cR
+, jFz Horror x57
+, 423 Horror q1Y
+, H5I Horror NN8
+, Vzh Horror R6m
+, JMx Horror 7P2
+, cU2 Horror xTq
+, 1sR Horror x1g
+, etp Horror 442
+, 5hZ Horror JuA
+, ru9 Musicals YW4
+, D3e Musicals N45
+, 1DA Musicals P6f
+, Oe8 Musicals 3B7
+, IYo Musicals el0
+, 763 Musicals 1UK
+, VUL Musicals 46y
+, ase Musicals 7uj
+, 3nJ Musicals L8h
+, 59u Musicals 2KD
+, tZ8 Musicals wls
+, lOD Musicals pM9
+, 9l0 Musicals m6h
+, hL3 Romance 6B5
+, xM5 Romance 31E
+, 7ti Romance VRS
+, k6Y Romance g36
+, K15 Romance 5d1
+, ttH Romance 7IW
+, 9aG Romance vGx
+, j6Y Romance 3lA
+, QhL Romance 38L
+, Mv4 Romance lGj
+, i4x Romance GgJ
+, twb Romance Zxk
+, uy0 Romance ghj
+, r9Q Romance 1qp
+, EW3 Romance HAT
+, 45T Romance WWH
+, DLX Romance 8Fq
+, CZE Romance 5g1
+, 54V Western HOV
+, 2zI Western 892
+, R3J Western 1e6
+, 2VD Western WeI
+, 7M5 Western 2E1
+, HBT Western vyX
+, vRI Western 9I9
+, ejO Western I35
+, G06 Western pZW
+, 7EX Western AX6
+, lsx Western g5a
+, wII Western oIl
+, 40z Western xt1
+, OZ8 Western YyW
+]
+2009-12-01 16:14:05,991 INFO  [main] com.serb.collection.TestCollections - dvdInfo created:
+[qif Western 8xi
+, lkN Romance TBy
+, 9u6 Musicals 6d8
+, bWB Romance jcw
+, 9Hv Animation jpf
+, 56c Western IbE
+, cn6 Romance 3f0
+, 9o2 Musicals 7QM
+, 1i7 Musicals FNG
+, 5EW Musicals a0h
+]
+2009-12-01 16:14:05,991 INFO  [main] com.serb.collection.TestCollections - dvdInfo sorted using GenreSort Comparator:
+[9Hv Animation jpf
+, 9u6 Musicals 6d8
+, 9o2 Musicals 7QM
+, 1i7 Musicals FNG
+, 5EW Musicals a0h
+, lkN Romance TBy
+, bWB Romance jcw
+, cn6 Romance 3f0
+, qif Western 8xi
+, 56c Western IbE
+]
+2009-12-01 16:24:41,639 INFO  [main] com.serb.collection.TestCollections - dvdInfo created:
+[5eD Horror 290
+, OaV Western g02
+, 6r7 Comedy Z1o
+, 1N0 Western 7BL
+, AN2 Western Esq
+, TBb Musicals C8N
+, dGK Western 79l
+, 2ub Animation X1x
+, koW Musicals y9P
+, o7M Romance tP6
+]
+2009-12-01 16:24:41,639 INFO  [main] com.serb.collection.TestCollections - dvdInfo sorted using GenreSort Comparator:
+[2ub Animation X1x
+, 6r7 Comedy Z1o
+, 5eD Horror 290
+, TBb Musicals C8N
+, koW Musicals y9P
+, o7M Romance tP6
+, OaV Western g02
+, 1N0 Western 7BL
+, AN2 Western Esq
+, dGK Western 79l
+]
+2009-12-01 16:24:41,639 INFO  [main] com.serb.collection.TestCollections - dvdInfo sorted using Comparable by title:
+[1N0 Western 7BL
+, 2ub Animation X1x
+, 5eD Horror 290
+, 6r7 Comedy Z1o
+, AN2 Western Esq
+, OaV Western g02
+, TBb Musicals C8N
+, dGK Western 79l
+, koW Musicals y9P
+, o7M Romance tP6
+]
+2009-12-01 16:52:42,633 INFO  [main] com.serb.collection.TestCollections - -------START testSearchObjArray()----------
+2009-12-01 16:52:42,664 INFO  [main] com.serb.collection.SearchObjArray -
+one = 1
+2009-12-01 16:52:42,664 INFO  [main] com.serb.collection.SearchObjArray - now reverse sort
+2009-12-01 16:52:42,664 INFO  [main] com.serb.collection.SearchObjArray -
+one = -1
+2009-12-01 16:52:42,664 INFO  [main] com.serb.collection.SearchObjArray - one = 2
+2009-12-01 16:52:42,664 INFO  [main] com.serb.collection.TestCollections - -------END testSearchObjArray()----------
+2009-12-01 16:53:40,444 INFO  [main] com.serb.collection.TestCollections - -------START testSearchObjArray()----------
+2009-12-01 16:53:40,444 INFO  [main] com.serb.collection.SearchObjArray - four
+2009-12-01 16:53:40,444 INFO  [main] com.serb.collection.SearchObjArray - one
+2009-12-01 16:53:40,444 INFO  [main] com.serb.collection.SearchObjArray - three
+2009-12-01 16:53:40,444 INFO  [main] com.serb.collection.SearchObjArray - two
+2009-12-01 16:53:40,444 INFO  [main] com.serb.collection.SearchObjArray -
+one = 1
+2009-12-01 16:53:40,444 INFO  [main] com.serb.collection.SearchObjArray - now reverse sort
+2009-12-01 16:53:40,444 INFO  [main] com.serb.collection.SearchObjArray - two
+2009-12-01 16:53:40,444 INFO  [main] com.serb.collection.SearchObjArray - three
+2009-12-01 16:53:40,444 INFO  [main] com.serb.collection.SearchObjArray - one
+2009-12-01 16:53:40,444 INFO  [main] com.serb.collection.SearchObjArray - four
+2009-12-01 16:53:40,444 INFO  [main] com.serb.collection.SearchObjArray -
+one = -1
+2009-12-01 16:53:40,444 INFO  [main] com.serb.collection.SearchObjArray - one = 2
+2009-12-01 16:53:40,444 INFO  [main] com.serb.collection.TestCollections - -------END testSearchObjArray()----------
+2009-12-01 17:02:21,797 INFO  [main] com.serb.collection.TestCollections - -------START testSearchObjArray()----------
+2009-12-01 17:02:21,797 INFO  [main] com.serb.collection.SearchObjArray -
+ Initial one = 0
+2009-12-01 17:02:21,797 INFO  [main] com.serb.collection.SearchObjArray - four
+2009-12-01 17:02:21,797 INFO  [main] com.serb.collection.SearchObjArray - one
+2009-12-01 17:02:21,797 INFO  [main] com.serb.collection.SearchObjArray - three
+2009-12-01 17:02:21,797 INFO  [main] com.serb.collection.SearchObjArray - two
+2009-12-01 17:02:21,797 INFO  [main] com.serb.collection.SearchObjArray -
+one = 1
+2009-12-01 17:02:21,797 INFO  [main] com.serb.collection.SearchObjArray - now reverse sort
+2009-12-01 17:02:21,797 INFO  [main] com.serb.collection.SearchObjArray - two
+2009-12-01 17:02:21,797 INFO  [main] com.serb.collection.SearchObjArray - three
+2009-12-01 17:02:21,797 INFO  [main] com.serb.collection.SearchObjArray - one
+2009-12-01 17:02:21,797 INFO  [main] com.serb.collection.SearchObjArray - four
+2009-12-01 17:02:21,797 INFO  [main] com.serb.collection.SearchObjArray -
+one = -1
+2009-12-01 17:02:21,797 INFO  [main] com.serb.collection.SearchObjArray - one = 2
+2009-12-01 17:02:21,797 INFO  [main] com.serb.collection.TestCollections - -------END testSearchObjArray()----------
+2009-12-01 17:02:46,172 INFO  [main] com.serb.collection.TestCollections - -------START testSearchObjArray()----------
+2009-12-01 17:02:46,172 INFO  [main] com.serb.collection.SearchObjArray -
+ Initial one = 0
+2009-12-01 17:02:46,172 INFO  [main] com.serb.collection.SearchObjArray -
+ Initial three = -2
+2009-12-01 17:02:46,172 INFO  [main] com.serb.collection.SearchObjArray - four
+2009-12-01 17:02:46,172 INFO  [main] com.serb.collection.SearchObjArray - one
+2009-12-01 17:02:46,172 INFO  [main] com.serb.collection.SearchObjArray - three
+2009-12-01 17:02:46,172 INFO  [main] com.serb.collection.SearchObjArray - two
+2009-12-01 17:02:46,172 INFO  [main] com.serb.collection.SearchObjArray -
+one = 1
+2009-12-01 17:02:46,172 INFO  [main] com.serb.collection.SearchObjArray - now reverse sort
+2009-12-01 17:02:46,172 INFO  [main] com.serb.collection.SearchObjArray - two
+2009-12-01 17:02:46,172 INFO  [main] com.serb.collection.SearchObjArray - three
+2009-12-01 17:02:46,172 INFO  [main] com.serb.collection.SearchObjArray - one
+2009-12-01 17:02:46,172 INFO  [main] com.serb.collection.SearchObjArray - four
+2009-12-01 17:02:46,172 INFO  [main] com.serb.collection.SearchObjArray -
+one = -1
+2009-12-01 17:02:46,172 INFO  [main] com.serb.collection.SearchObjArray - one = 2
+2009-12-01 17:02:46,172 INFO  [main] com.serb.collection.TestCollections - -------END testSearchObjArray()----------
+2009-12-01 17:03:20,500 INFO  [main] com.serb.collection.TestCollections - -------START testSearchObjArray()----------
+2009-12-01 17:03:20,500 INFO  [main] com.serb.collection.SearchObjArray -
+ Initial one = 0
+2009-12-01 17:03:20,500 INFO  [main] com.serb.collection.SearchObjArray -
+ Initial three = -2
+2009-12-01 17:03:42,499 INFO  [main] com.serb.collection.SearchObjArray - four
+2009-12-01 17:03:45,390 INFO  [main] com.serb.collection.SearchObjArray - one
+2009-12-01 17:03:45,390 INFO  [main] com.serb.collection.SearchObjArray - three
+2009-12-01 17:03:45,390 INFO  [main] com.serb.collection.SearchObjArray - two
+2009-12-01 17:03:45,390 INFO  [main] com.serb.collection.SearchObjArray -
+one = 1
+2009-12-01 17:03:45,390 INFO  [main] com.serb.collection.SearchObjArray - now reverse sort
+2009-12-01 17:03:45,390 INFO  [main] com.serb.collection.SearchObjArray - two
+2009-12-01 17:03:45,390 INFO  [main] com.serb.collection.SearchObjArray - three
+2009-12-01 17:03:45,390 INFO  [main] com.serb.collection.SearchObjArray - one
+2009-12-01 17:03:45,390 INFO  [main] com.serb.collection.SearchObjArray - four
+2009-12-01 17:03:45,390 INFO  [main] com.serb.collection.SearchObjArray -
+one = -1
+2009-12-01 17:03:45,390 INFO  [main] com.serb.collection.SearchObjArray - one = 2
+2009-12-01 17:03:45,390 INFO  [main] com.serb.collection.TestCollections - -------END testSearchObjArray()----------
+2009-12-01 17:05:19,920 INFO  [main] com.serb.collection.TestCollections - -------START testSearchObjArray()----------
+2009-12-01 17:05:19,920 INFO  [main] com.serb.collection.SearchObjArray -
+ Initial one = 0
+2009-12-01 17:05:19,920 INFO  [main] com.serb.collection.SearchObjArray -
+ Initial three = -2
+2009-12-01 17:05:19,920 INFO  [main] com.serb.collection.SearchObjArray - four
+2009-12-01 17:05:19,920 INFO  [main] com.serb.collection.SearchObjArray - one
+2009-12-01 17:05:19,920 INFO  [main] com.serb.collection.SearchObjArray - three
+2009-12-01 17:05:19,920 INFO  [main] com.serb.collection.SearchObjArray - two
+2009-12-01 17:05:19,920 INFO  [main] com.serb.collection.SearchObjArray -
+one = 1
+2009-12-01 17:05:19,920 INFO  [main] com.serb.collection.SearchObjArray -
+ Sorted three three = 2
+2009-12-01 17:05:19,920 INFO  [main] com.serb.collection.SearchObjArray - now reverse sort
+2009-12-01 17:05:19,920 INFO  [main] com.serb.collection.SearchObjArray - two
+2009-12-01 17:05:19,920 INFO  [main] com.serb.collection.SearchObjArray - three
+2009-12-01 17:05:19,920 INFO  [main] com.serb.collection.SearchObjArray - one
+2009-12-01 17:05:19,920 INFO  [main] com.serb.collection.SearchObjArray - four
+2009-12-01 17:05:19,920 INFO  [main] com.serb.collection.SearchObjArray -
+one = -1
+2009-12-01 17:05:19,920 INFO  [main] com.serb.collection.SearchObjArray - one = 2
+2009-12-01 17:05:19,920 INFO  [main] com.serb.collection.TestCollections - -------END testSearchObjArray()----------
+2009-12-01 17:05:54,857 INFO  [main] com.serb.collection.TestCollections - -------START testSearchObjArray()----------
+2009-12-01 17:05:54,857 INFO  [main] com.serb.collection.SearchObjArray -
+ Initial one = 0
+2009-12-01 17:05:54,857 INFO  [main] com.serb.collection.SearchObjArray -
+ Initial three = -2
+2009-12-01 17:08:26,230 INFO  [main] com.serb.collection.TestCollections - -------START testSearchObjArray()----------
+2009-12-01 17:08:26,246 INFO  [main] com.serb.collection.SearchObjArray -
+ Initial one = 0
+2009-12-01 17:08:26,246 INFO  [main] com.serb.collection.SearchObjArray -
+ Initial three = -2
+2009-12-01 17:08:28,667 INFO  [main] com.serb.collection.SearchObjArray - four
+2009-12-01 17:08:31,652 INFO  [main] com.serb.collection.SearchObjArray - one
+2009-12-01 17:08:31,652 INFO  [main] com.serb.collection.SearchObjArray - three
+2009-12-01 17:08:31,652 INFO  [main] com.serb.collection.SearchObjArray - two
+2009-12-01 17:08:31,652 INFO  [main] com.serb.collection.SearchObjArray -
+one = 1
+2009-12-01 17:08:31,652 INFO  [main] com.serb.collection.SearchObjArray -
+ Sorted three three = 2
+2009-12-01 17:08:31,652 INFO  [main] com.serb.collection.SearchObjArray -
+ Sorted  unknown = -5
+2009-12-01 17:08:31,652 INFO  [main] com.serb.collection.SearchObjArray - now reverse sort
+2009-12-01 17:08:31,652 INFO  [main] com.serb.collection.SearchObjArray - two
+2009-12-01 17:08:31,652 INFO  [main] com.serb.collection.SearchObjArray - three
+2009-12-01 17:08:31,652 INFO  [main] com.serb.collection.SearchObjArray - one
+2009-12-01 17:08:31,652 INFO  [main] com.serb.collection.SearchObjArray - four
+2009-12-01 17:08:31,652 INFO  [main] com.serb.collection.SearchObjArray -
+one = -1
+2009-12-01 17:08:31,652 INFO  [main] com.serb.collection.SearchObjArray - one = 2
+2009-12-01 17:08:31,652 INFO  [main] com.serb.collection.TestCollections - -------END testSearchObjArray()----------
+2009-12-01 17:20:21,830 INFO  [main] com.serb.collection.TestCollections - size 4
+2009-12-01 17:20:21,830 INFO  [main] com.serb.collection.TestCollections - idx2 three
+2009-12-01 17:20:21,830 INFO  [main] com.serb.collection.TestCollections - one
+2009-12-01 17:20:21,830 INFO  [main] com.serb.collection.TestCollections - five
+2009-12-01 17:20:21,830 INFO  [main] com.serb.collection.TestCollections - three
+2009-12-01 17:20:21,830 INFO  [main] com.serb.collection.TestCollections - six
+2009-12-01 17:20:21,830 INFO  [main] com.serb.collection.TestCollections -
+sl[1] five
+2009-12-01 17:35:16,334 INFO  [main] com.serb.collection.TestCollections - List created and filled iL= [0, 1, 2]
+2009-12-01 17:35:16,334 INFO  [main] com.serb.collection.TestCollections - After modify one of the array iL= [0, 1, 2]
+2009-12-01 17:36:59,083 INFO  [main] com.serb.collection.TestCollections - List created and filled iL= [0, 1, 2]
+2009-12-01 17:36:59,083 INFO  [main] com.serb.collection.TestCollections - After modify of the arrays iL= [0, 1, 2]
+2009-12-01 17:40:03,659 INFO  [main] com.serb.collection.TestCollections - List created and filled iL= [0, 1, 2]
+2009-12-01 17:40:03,674 INFO  [main] com.serb.collection.TestCollections - After modify of the arrays iL= [0, 1, 2]
+2009-12-01 17:40:36,877 INFO  [main] com.serb.collection.TestCollections - -------START arraysToListTest()----------
+2009-12-01 17:40:36,877 INFO  [main] com.serb.collection.TestCollections - List created from array sList= [one, two, three, four]
+2009-12-01 17:40:36,877 INFO  [main] com.serb.collection.TestCollections - List after modifying array sList= [ChangedValue, two, three, four]
+2009-12-01 17:40:36,877 INFO  [main] com.serb.collection.TestCollections - ChangedValue
+2009-12-01 17:40:36,877 INFO  [main] com.serb.collection.TestCollections - five
+2009-12-01 17:40:36,877 INFO  [main] com.serb.collection.TestCollections - three
+2009-12-01 17:40:36,877 INFO  [main] com.serb.collection.TestCollections - six
+2009-12-01 17:40:36,877 INFO  [main] com.serb.collection.TestCollections -
+sl[1] five
+2009-12-01 17:40:36,877 INFO  [main] com.serb.collection.TestCollections - -------END arraysToListTest()----------
+2009-12-01 17:40:36,877 INFO  [main] com.serb.collection.TestCollections - -------START listToArrays()----------
+2009-12-01 17:40:36,877 INFO  [main] com.serb.collection.TestCollections - List created and filled iL= [0, 1, 2]
+2009-12-01 17:40:36,877 INFO  [main] com.serb.collection.TestCollections - After modify of the arrays iL= [0, 1, 2]
+2009-12-01 17:40:36,877 INFO  [main] com.serb.collection.TestCollections - -------END listToArrays()----------
+2009-12-01 17:42:43,876 INFO  [main] com.serb.collection.TestCollections - -------START arraysToListTest()----------
+2009-12-01 17:42:43,876 INFO  [main] com.serb.collection.TestCollections - List created from array sList= [one, two, three, four]
+2009-12-01 17:42:43,876 INFO  [main] com.serb.collection.TestCollections - List after modifying array sList= [ChangedValue, two, three, four]
+2009-12-01 17:42:43,876 INFO  [main] com.serb.collection.TestCollections - ChangedValue
+2009-12-01 17:42:43,876 INFO  [main] com.serb.collection.TestCollections - five
+2009-12-01 17:42:43,876 INFO  [main] com.serb.collection.TestCollections - three
+2009-12-01 17:42:43,876 INFO  [main] com.serb.collection.TestCollections - six
+2009-12-01 17:42:43,876 INFO  [main] com.serb.collection.TestCollections -
+sl[1] five
+2009-12-01 17:42:43,876 INFO  [main] com.serb.collection.TestCollections - -------END arraysToListTest()----------
+2009-12-01 17:42:43,876 INFO  [main] com.serb.collection.TestCollections - -------START listToArrays()----------
+2009-12-01 17:42:43,876 INFO  [main] com.serb.collection.TestCollections - List created and filled iL= [0, 1, 2]
+2009-12-01 17:42:43,876 INFO  [main] com.serb.collection.TestCollections - After modify of the arrays iL= [0, 1, 2]
+2009-12-01 17:42:43,876 INFO  [main] com.serb.collection.TestCollections - 0
+2009-12-01 17:42:43,876 INFO  [main] com.serb.collection.TestCollections - 1
+2009-12-01 17:42:43,876 INFO  [main] com.serb.collection.TestCollections - 2
+2009-12-01 17:42:43,876 INFO  [main] com.serb.collection.TestCollections - -------END listToArrays()----------
+2009-12-02 09:39:47,643 INFO  [main] com.serb.collection.TestCollections - -------START testList()----------
+2009-12-02 09:39:47,659 INFO  [main] com.serb.collection.TestCollections - listElem= 1
+2009-12-02 09:39:47,659 INFO  [main] com.serb.collection.TestCollections - listElem= 2
+2009-12-02 09:39:47,659 INFO  [main] com.serb.collection.TestCollections - listElem= 3
+2009-12-02 09:39:47,659 INFO  [main] com.serb.collection.TestCollections - listElem= 4
+2009-12-02 09:39:47,659 INFO  [main] com.serb.collection.TestCollections - listElem= 5
+2009-12-02 09:39:47,659 INFO  [main] com.serb.collection.TestCollections - aiko
+2009-12-02 09:39:47,659 INFO  [main] com.serb.collection.TestCollections - clover
+2009-12-02 09:39:47,659 INFO  [main] com.serb.collection.TestCollections - magnolia
+2009-12-02 09:39:47,659 INFO  [main] com.serb.collection.TestCollections - size 3
+2009-12-02 09:39:47,659 INFO  [main] com.serb.collection.TestCollections - get1 clover
+2009-12-02 09:39:47,659 INFO  [main] com.serb.collection.TestCollections - aiko 0
+2009-12-02 09:39:47,659 INFO  [main] com.serb.collection.TestCollections - oa aiko
+2009-12-02 09:39:47,659 INFO  [main] com.serb.collection.TestCollections - oa clover
+2009-12-02 09:39:47,659 INFO  [main] com.serb.collection.TestCollections - -------START testList()----------
+2009-12-02 09:46:53,279 INFO  [main] com.serb.collection.TestCollections - testSet.add("1")true
+2009-12-02 09:46:53,279 INFO  [main] com.serb.collection.TestCollections - testSet.add("1")false
+2009-12-02 09:46:53,279 INFO  [main] com.serb.collection.TestCollections - testSet.add("1")false
+2009-12-02 09:46:53,279 INFO  [main] com.serb.collection.TestCollections - testSet.add("2")true
+2009-12-02 09:46:53,279 INFO  [main] com.serb.collection.TestCollections - testSet.add("3")true
+2009-12-02 09:48:34,996 INFO  [main] com.serb.collection.TestCollections - -------START testSets()----------
+2009-12-02 09:48:35,012 INFO  [main] com.serb.collection.TestCollections - testSet.add("1")true
+2009-12-02 09:48:35,012 INFO  [main] com.serb.collection.TestCollections - testSet.add("1")false
+2009-12-02 09:48:35,012 INFO  [main] com.serb.collection.TestCollections - testSet.add("1")false
+2009-12-02 09:48:35,012 INFO  [main] com.serb.collection.TestCollections - testSet.add("2")true
+2009-12-02 09:48:35,012 INFO  [main] com.serb.collection.TestCollections - testSet.add("3")true
+2009-12-02 09:48:35,012 INFO  [main] com.serb.collection.TestCollections - true
+2009-12-02 09:48:35,012 INFO  [main] com.serb.collection.TestCollections - true
+2009-12-02 09:48:35,012 INFO  [main] com.serb.collection.TestCollections - true
+2009-12-02 09:48:35,012 INFO  [main] com.serb.collection.TestCollections - false
+2009-12-02 09:48:35,012 INFO  [main] com.serb.collection.TestCollections - true
+2009-12-02 09:48:35,012 INFO  [main] com.serb.collection.TestCollections -
+
+2009-12-02 09:48:35,012 INFO  [main] com.serb.collection.TestCollections - b
+2009-12-02 09:48:35,012 INFO  [main] com.serb.collection.TestCollections - a
+2009-12-02 09:48:35,012 INFO  [main] com.serb.collection.TestCollections - 42
+2009-12-02 09:48:35,012 INFO  [main] com.serb.collection.TestCollections - java.lang.Object@9e5c73
+2009-12-02 09:48:35,012 INFO  [main] com.serb.collection.TestCollections - -------END testSets()----------
+2009-12-02 09:49:23,105 INFO  [main] com.serb.collection.TestCollections - -------START testSets()----------
+2009-12-02 09:49:23,105 INFO  [main] com.serb.collection.TestCollections - testSet.add("1")true
+2009-12-02 09:49:23,105 INFO  [main] com.serb.collection.TestCollections - testSet.add("1")false
+2009-12-02 09:49:23,105 INFO  [main] com.serb.collection.TestCollections - testSet.add("1")false
+2009-12-02 09:49:23,105 INFO  [main] com.serb.collection.TestCollections - testSet.add("2")true
+2009-12-02 09:49:23,105 INFO  [main] com.serb.collection.TestCollections - testSet.add("3")true
+2009-12-02 10:07:39,544 INFO  [main] com.serb.collection.TestCollections - -------START testMaps()----------
+2009-12-02 10:07:42,529 INFO  [main] com.serb.collection.TestCollections - testMap.put("1","1")= null
+2009-12-02 10:07:42,529 INFO  [main] com.serb.collection.TestCollections - testMap.put("1","2")= 1
+2009-12-02 10:07:42,529 INFO  [main] com.serb.collection.TestCollections - testMap.put("1","3")= 2
+2009-12-02 10:07:42,544 INFO  [main] com.serb.collection.TestCollections - testMap.put("1","4")= 3
+2009-12-02 10:07:42,544 INFO  [main] com.serb.collection.TestCollections - testMap.put("2","1")= null
+2009-12-02 10:08:11,247 INFO  [main] com.serb.collection.TestCollections - -------START testMaps()----------
+2009-12-02 10:08:11,263 INFO  [main] com.serb.collection.TestCollections - testMap.put("1","1")= null
+2009-12-02 10:08:11,263 INFO  [main] com.serb.collection.TestCollections - testMap.put("1","2")= 1
+2009-12-02 10:08:11,263 INFO  [main] com.serb.collection.TestCollections - testMap.put("1","3")= 2
+2009-12-02 10:08:11,263 INFO  [main] com.serb.collection.TestCollections - testMap.put("1","4")= 3
+2009-12-02 10:08:11,263 INFO  [main] com.serb.collection.TestCollections - testMap.put("2","1")= null
+2009-12-02 10:08:11,309 INFO  [main] com.serb.collection.TestCollections - -------END testMaps()----------
+2009-12-02 10:08:57,778 INFO  [main] com.serb.collection.TestCollections - -------START testMaps()----------
+2009-12-02 10:08:57,793 INFO  [main] com.serb.collection.TestCollections - testMap.put("1","1")= null
+2009-12-02 10:08:57,793 INFO  [main] com.serb.collection.TestCollections - testMap.put("1","2")= 1
+2009-12-02 10:08:57,793 INFO  [main] com.serb.collection.TestCollections - testMap.put("1","3")= 2
+2009-12-02 10:08:57,793 INFO  [main] com.serb.collection.TestCollections - testMap.put("1","4")= 3
+2009-12-02 10:08:57,793 INFO  [main] com.serb.collection.TestCollections - testMap.put("2","1")= null
+2009-12-02 10:08:57,793 INFO  [main] com.serb.collection.TestCollections - -------END testMaps()----------
+2009-12-02 10:12:08,322 INFO  [main] com.serb.collection.TestCollections - -------START testMaps()----------
+2009-12-02 10:12:08,322 INFO  [main] com.serb.collection.TestCollections - testMap.put("1","1")= null
+2009-12-02 10:12:08,322 INFO  [main] com.serb.collection.TestCollections - testMap.put("1","2")= 1
+2009-12-02 10:12:08,322 INFO  [main] com.serb.collection.TestCollections - testMap.put("1","3")= 2
+2009-12-02 10:12:08,322 INFO  [main] com.serb.collection.TestCollections - testMap.put("1","4")= 3
+2009-12-02 10:12:08,322 INFO  [main] com.serb.collection.TestCollections - testMap.put("2","1")= null
+2009-12-02 10:12:08,338 INFO  [main] com.serb.collection.TestCollections - -------END testMaps()----------
+2009-12-02 10:12:19,697 INFO  [main] com.serb.collection.TestCollections - -------START testMaps()----------
+2009-12-02 10:12:19,697 INFO  [main] com.serb.collection.TestCollections - testMap.put("1","1")= null
+2009-12-02 10:12:19,697 INFO  [main] com.serb.collection.TestCollections - testMap.put("1","2")= 1
+2009-12-02 10:12:19,697 INFO  [main] com.serb.collection.TestCollections - testMap.put("1","3")= 2
+2009-12-02 10:12:19,697 INFO  [main] com.serb.collection.TestCollections - testMap.put("1","4")= 3
+2009-12-02 10:12:19,697 INFO  [main] com.serb.collection.TestCollections - testMap.put("2","1")= null
+2009-12-02 10:12:19,713 INFO  [main] com.serb.collection.TestCollections - -------END testMaps()----------
+2009-12-02 10:15:16,648 INFO  [main] com.serb.collection.TestCollections - -------START testMaps()----------
+2009-12-02 10:15:16,648 INFO  [main] com.serb.collection.TestCollections - testMap.put("1","1")= null
+2009-12-02 10:15:16,648 INFO  [main] com.serb.collection.TestCollections - testMap.put("1","2")= 1
+2009-12-02 10:15:16,648 INFO  [main] com.serb.collection.TestCollections - testMap.put("1","3")= 2
+2009-12-02 10:15:16,648 INFO  [main] com.serb.collection.TestCollections - testMap.put("1","4")= 3
+2009-12-02 10:15:16,648 INFO  [main] com.serb.collection.TestCollections - testMap.put("2","1")= null
+2009-12-02 10:15:16,663 INFO  [main] com.serb.collection.TestCollections - -------END testMaps()----------
+2009-12-02 10:16:30,928 INFO  [main] com.serb.collection.TestCollections - -------START testMaps()----------
+2009-12-02 10:16:30,928 INFO  [main] com.serb.collection.TestCollections - testMap.put("1","1")= null
+2009-12-02 10:16:30,928 INFO  [main] com.serb.collection.TestCollections - testMap.put("1","2")= 1
+2009-12-02 10:16:30,928 INFO  [main] com.serb.collection.TestCollections - testMap.put("1","3")= 2
+2009-12-02 10:16:30,928 INFO  [main] com.serb.collection.TestCollections - testMap.put("1","4")= 3
+2009-12-02 10:16:30,944 INFO  [main] com.serb.collection.TestCollections - testMap.put("2","1")= null
+2009-12-02 10:16:30,944 INFO  [main] com.serb.collection.TestCollections - -------END testMaps()----------
+2009-12-04 15:18:13,051 INFO  [main] com.serb.collection.TestCollections - -------START testMaps()----------
+2009-12-04 15:18:13,067 INFO  [main] com.serb.collection.TestCollections - testMap.put("1","1")= null
+2009-12-04 15:18:13,067 INFO  [main] com.serb.collection.TestCollections - testMap.put("1","2")= 1
+2009-12-04 15:18:13,083 INFO  [main] com.serb.collection.TestCollections - testMap.put("1","3")= 2
+2009-12-04 15:18:13,083 INFO  [main] com.serb.collection.TestCollections - testMap.put("1","4")= 3
+2009-12-04 15:18:13,083 INFO  [main] com.serb.collection.TestCollections - testMap.put("2","1")= null
+2009-12-04 15:18:13,114 INFO  [main] com.serb.collection.TestCollections - -------END testMaps()----------
+2009-12-04 15:18:32,692 INFO  [main] com.serb.collection.TestCollections - -------START testQueue()----------
+2009-12-04 15:18:32,723 INFO  [main] com.serb.collection.TestCollections - -------END testQueue()----------
+2009-12-08 16:04:17,795 INFO  [main] com.serb.collection.TestCollections - -------START testQueue()----------
+2009-12-08 16:04:17,810 INFO  [main] com.serb.collection.TestCollections - -------END testQueue()----------
+2009-12-08 16:04:27,371 INFO  [main] com.serb.collection.TestCollections - -------START testQueue()----------
+2009-12-08 16:09:08,602 INFO  [main] com.serb.collection.TestCollections - -------START testQueue()----------
+2009-12-08 16:09:08,602 INFO  [main] com.serb.collection.TestCollections - -------END testQueue()----------
+2009-12-08 16:20:11,554 INFO  [main] com.serb.collection.TestCollections - -------START testQueue()----------
+2009-12-08 16:20:24,117 INFO  [main] com.serb.collection.TestCollections - -------START testQueue()----------
+2009-12-08 16:25:14,960 INFO  [main] com.serb.collection.TestCollections - -------START testQueue()----------
+2009-12-08 16:25:40,585 INFO  [main] com.serb.collection.TestCollections - -------START testQueue()----------
+2009-12-08 16:33:22,405 INFO  [main] com.serb.collection.TestCollections - -------START testQueue()----------
+2009-12-08 16:35:46,222 INFO  [main] com.serb.collection.TestCollections - -------START testQueue()----------
+2009-12-08 16:35:49,893 INFO  [main] com.serb.collection.TestCollections - -------END testQueue()----------
+2009-12-08 16:36:39,944 INFO  [main] com.serb.collection.TestCollections - -------START testQueue()----------
+2009-12-08 16:36:39,944 INFO  [main] com.serb.collection.TestCollections -
+ -------END testQueue()----------
+2009-12-08 16:37:43,647 INFO  [main] com.serb.collection.TestCollections - -------START testQueue()----------
+2009-12-08 16:37:43,663 INFO  [main] com.serb.collection.TestCollections -
+ -------END testQueue()----------
+2009-12-08 16:38:37,853 INFO  [main] com.serb.collection.TestCollections - -------START testQueue()----------
+2009-12-08 16:38:37,869 INFO  [main] com.serb.collection.TestCollections - -------END testQueue()----------
+2009-12-08 16:39:04,973 INFO  [main] com.serb.collection.TestCollections - -------START testQueue()----------
+2009-12-08 16:39:04,989 INFO  [main] com.serb.collection.TestCollections - -------END testQueue()----------
+2009-12-08 16:45:40,935 INFO  [main] com.serb.collection.TestCollections - -------START testQueue()----------
+2009-12-08 16:45:45,262 INFO  [main] com.serb.collection.TestCollections - -------END testQueue()----------
+2009-12-08 16:47:51,739 INFO  [main] com.serb.collection.TestCollections - -------START testQueue()----------
+2009-12-08 16:47:51,739 INFO  [main] com.serb.collection.TestCollections - -------END testQueue()----------
+2009-12-08 16:48:05,097 INFO  [main] com.serb.collection.TestCollections - -------START testList()----------
+2009-12-08 16:48:40,126 INFO  [main] com.serb.collection.TestCollections - -------START testList()----------
+2009-12-08 16:48:40,126 INFO  [main] com.serb.collection.TestCollections - listElem= 1
+2009-12-08 16:48:40,126 INFO  [main] com.serb.collection.TestCollections - listElem= 2
+2009-12-08 16:48:40,126 INFO  [main] com.serb.collection.TestCollections - listElem= 3
+2009-12-08 16:48:40,126 INFO  [main] com.serb.collection.TestCollections - listElem= 4
+2009-12-08 16:48:40,126 INFO  [main] com.serb.collection.TestCollections - listElem= 5
+2009-12-08 16:48:40,126 INFO  [main] com.serb.collection.TestCollections - listElem= 999
+2009-12-08 16:48:40,126 INFO  [main] com.serb.collection.TestCollections - aiko
+2009-12-08 16:48:40,126 INFO  [main] com.serb.collection.TestCollections - clover
+2009-12-08 16:48:40,126 INFO  [main] com.serb.collection.TestCollections - magnolia
+2009-12-08 16:48:40,126 INFO  [main] com.serb.collection.TestCollections - size 3
+2009-12-08 16:48:40,126 INFO  [main] com.serb.collection.TestCollections - get1 clover
+2009-12-08 16:48:40,126 INFO  [main] com.serb.collection.TestCollections - aiko 0
+2009-12-08 16:48:40,126 INFO  [main] com.serb.collection.TestCollections - oa aiko
+2009-12-08 16:48:40,126 INFO  [main] com.serb.collection.TestCollections - oa clover
+2009-12-08 16:48:40,126 INFO  [main] com.serb.collection.TestCollections - -------START testList()----------
+2009-12-08 16:49:05,797 INFO  [main] com.serb.collection.TestCollections - -------START testList()----------
+2009-12-08 16:51:09,243 INFO  [main] com.serb.collection.TestCollections - listElem= 1
+2009-12-08 16:51:09,243 INFO  [main] com.serb.collection.TestCollections - listElem= 2
+2009-12-08 16:51:09,243 INFO  [main] com.serb.collection.TestCollections - listElem= 3
+2009-12-08 16:51:09,243 INFO  [main] com.serb.collection.TestCollections - listElem= 4
+2009-12-08 16:51:09,243 INFO  [main] com.serb.collection.TestCollections - listElem= 5
+2009-12-08 16:51:09,243 INFO  [main] com.serb.collection.TestCollections - listElem= 999
+2009-12-08 16:51:09,243 INFO  [main] com.serb.collection.TestCollections - aiko
+2009-12-08 16:51:09,243 INFO  [main] com.serb.collection.TestCollections - clover
+2009-12-08 16:51:09,243 INFO  [main] com.serb.collection.TestCollections - magnolia
+2009-12-08 16:51:09,243 INFO  [main] com.serb.collection.TestCollections - size 3
+2009-12-08 16:51:09,259 INFO  [main] com.serb.collection.TestCollections - get1 clover
+2009-12-08 16:51:09,259 INFO  [main] com.serb.collection.TestCollections - aiko 0
+2009-12-08 16:51:09,259 INFO  [main] com.serb.collection.TestCollections - oa aiko
+2009-12-08 16:51:09,259 INFO  [main] com.serb.collection.TestCollections - oa clover
+2009-12-08 16:51:09,259 INFO  [main] com.serb.collection.TestCollections - -------START testList()----------
+2009-12-08 16:53:53,673 INFO  [main] com.serb.collection.TestCollections - -------START testList()----------
+2009-12-08 16:54:11,782 INFO  [main] com.serb.collection.TestCollections - -------START testQueue()----------
+2009-12-08 16:54:11,782 INFO  [main] com.serb.collection.TestCollections - -------END testQueue()----------
+2009-12-08 16:54:37,781 INFO  [main] com.serb.collection.TestCollections - -------START testQueue()----------
+2009-12-08 16:54:37,796 INFO  [main] com.serb.collection.TestCollections - -------END testQueue()----------
+2010-03-01 11:32:35,982 INFO  [main] com.serb.collection.TestCollections - -------START testLazyCollections()----------
+2010-03-01 11:32:36,013 INFO  [main] com.serb.collection.TestCollections - -------END testLazyCollections()----------
+2010-03-01 11:33:48,144 INFO  [main] com.serb.collection.TestCollections - -------START testLazyCollections()----------
+2010-03-01 11:33:48,144 INFO  [main] com.serb.collection.TestCollections - -------END testLazyCollections()----------
+2010-03-01 11:34:10,692 INFO  [main] com.serb.collection.TestCollections - -------START testLazyCollections()----------
+2010-03-01 11:34:10,692 INFO  [main] com.serb.collection.TestCollections - -------END testLazyCollections()----------
+2010-03-01 11:39:07,785 INFO  [main] com.serb.collection.TestCollections - -------START testLazyCollections()----------
+2010-03-01 11:39:07,785 INFO  [main] com.serb.collection.TestCollections - **********************************
+2010-03-01 11:39:07,785 INFO  [main] com.serb.collection.TestCollections - Using Usual Methods
+2010-03-01 11:39:07,785 INFO  [main] com.serb.collection.TestCollections - **********************************
+2010-03-01 11:39:07,785 INFO  [main] com.serb.collection.TestCollections - **********************************
+2010-03-01 11:39:07,785 INFO  [main] com.serb.collection.TestCollections - Using Lazy Collections
+2010-03-01 11:39:07,785 INFO  [main] com.serb.collection.TestCollections - **********************************
+2010-03-01 11:39:07,785 INFO  [main] com.serb.collection.TestCollections - -------END testLazyCollections()----------
+2010-03-03 17:49:02,034 INFO  [main] com.serb.collection.TestCollections - -------START testLazyCollections()----------
+2010-03-03 17:49:02,050 INFO  [main] com.serb.collection.TestCollections - **********************************
+2010-03-03 17:49:02,050 INFO  [main] com.serb.collection.TestCollections - Using Usual Methods
+2010-03-03 17:49:02,050 INFO  [main] com.serb.collection.TestCollections - **********************************
+2010-03-03 17:49:02,066 INFO  [main] com.serb.collection.TestCollections - **********************************
+2010-03-03 17:49:02,066 INFO  [main] com.serb.collection.TestCollections - Using Lazy Collections
+2010-03-03 17:49:02,066 INFO  [main] com.serb.collection.TestCollections - **********************************
+2010-03-03 17:49:02,066 INFO  [main] com.serb.collection.TestCollections - -------END testLazyCollections()----------
+2010-03-03 17:49:18,268 INFO  [main] com.serb.collection.TestCollections - -------START testLazyCollections()----------
+2010-03-03 17:49:18,268 INFO  [main] com.serb.collection.TestCollections - **********************************
+2010-03-03 17:49:18,268 INFO  [main] com.serb.collection.TestCollections - Using Usual Methods
+2010-03-03 17:49:18,268 INFO  [main] com.serb.collection.TestCollections - **********************************
+2010-03-03 17:49:18,268 INFO  [main] com.serb.collection.TestCollections - **********************************
+2010-03-03 17:49:18,268 INFO  [main] com.serb.collection.TestCollections - Using Lazy Collections
+2010-03-03 17:49:18,268 INFO  [main] com.serb.collection.TestCollections - **********************************
+2010-03-03 17:49:18,283 INFO  [main] com.serb.collection.TestCollections - -------END testLazyCollections()----------
+2010-03-03 17:49:29,204 INFO  [main] com.serb.collection.TestCollections - -------START testLazyCollections()----------
+2010-03-03 17:49:29,204 INFO  [main] com.serb.collection.TestCollections - **********************************
+2010-03-03 17:49:29,204 INFO  [main] com.serb.collection.TestCollections - Using Usual Methods
+2010-03-03 17:49:29,204 INFO  [main] com.serb.collection.TestCollections - **********************************
+2010-03-03 17:49:29,204 INFO  [main] com.serb.collection.TestCollections - **********************************
+2010-03-03 17:49:29,204 INFO  [main] com.serb.collection.TestCollections - Using Lazy Collections
+2010-03-03 17:49:29,204 INFO  [main] com.serb.collection.TestCollections - **********************************
+2010-03-03 17:49:29,204 INFO  [main] com.serb.collection.TestCollections - -------END testLazyCollections()----------
+2010-03-23 10:32:47,463 INFO  [main] com.serb.collection.TestCollections - -------START testEqualsAndHashCode()----------
+2010-03-23 10:32:47,509 INFO  [main] com.serb.collection.TestCollections - cat1.equals(cat2)= true
+2010-03-23 10:32:47,509 INFO  [main] com.serb.collection.TestCollections - cat2.equals(cat2)= true
+2010-03-23 10:32:47,509 INFO  [main] com.serb.collection.TestCollections - cat2.equals(cat1)= true
+2010-03-23 10:32:47,509 INFO  [main] com.serb.collection.TestCollections - cat1.hashCode()= 97893500
+2010-03-23 10:32:47,509 INFO  [main] com.serb.collection.TestCollections - cat2.hashCode()= 97893500
+2010-03-23 10:32:47,509 INFO  [main] com.serb.collection.TestCollections - cat3.equals(cat1)= false
+2010-03-23 10:32:47,509 INFO  [main] com.serb.collection.TestCollections - cat3.hashCode()= 97893505
+2010-03-23 10:32:47,509 INFO  [main] com.serb.collection.TestCollections - -------END testEqualsAndHashCode()----------
+2010-03-23 10:46:16,746 INFO  [main] com.serb.collection.TestCollections - -------START testEqualsAndHashCode()----------
+2010-03-23 10:46:16,778 INFO  [main] com.serb.collection.TestCollections - cat1.equals(cat2)= false
+2010-03-23 10:46:16,778 INFO  [main] com.serb.collection.TestCollections - cat2.equals(cat2)= true
+2010-03-23 10:46:16,778 INFO  [main] com.serb.collection.TestCollections - cat2.equals(cat1)= false
+2010-03-23 10:46:16,778 INFO  [main] com.serb.collection.TestCollections - cat1.hashCode()= 2463988
+2010-03-23 10:46:16,778 INFO  [main] com.serb.collection.TestCollections - cat2.hashCode()= 2876908
+2010-03-23 10:46:16,778 INFO  [main] com.serb.collection.TestCollections - cat3.equals(cat1)= false
+2010-03-23 10:46:16,778 INFO  [main] com.serb.collection.TestCollections - cat3.hashCode()= 97893505
+2010-03-23 10:46:16,778 INFO  [main] com.serb.collection.TestCollections - -------END testEqualsAndHashCode()----------
+2010-03-23 10:46:36,700 INFO  [main] com.serb.collection.TestCollections - -------START testEqualsAndHashCode()----------
+2010-03-23 10:46:36,715 INFO  [main] com.serb.collection.TestCollections - cat1.equals(cat2)= true
+2010-03-23 10:46:36,715 INFO  [main] com.serb.collection.TestCollections - cat2.equals(cat2)= true
+2010-03-23 10:46:36,715 INFO  [main] com.serb.collection.TestCollections - cat2.equals(cat1)= true
+2010-03-23 10:46:36,715 INFO  [main] com.serb.collection.TestCollections - cat1.hashCode()= 2463988
+2010-03-23 10:46:36,715 INFO  [main] com.serb.collection.TestCollections - cat2.hashCode()= 2463988
+2010-03-23 10:46:36,715 INFO  [main] com.serb.collection.TestCollections - cat3.equals(cat1)= false
+2010-03-23 10:46:36,715 INFO  [main] com.serb.collection.TestCollections - cat3.hashCode()= 97893505
+2010-03-23 10:46:36,715 INFO  [main] com.serb.collection.TestCollections - -------END testEqualsAndHashCode()----------
+2010-03-26 10:53:50,792 INFO  [main] com.serb.collection.TestCollections - -------START testEqualsAndHashCode()----------
+2010-03-26 10:53:50,839 INFO  [main] com.serb.collection.TestCollections - cat1.equals(cat2)= true
+2010-03-26 10:53:50,839 INFO  [main] com.serb.collection.TestCollections - cat2.equals(cat2)= true
+2010-03-26 10:53:50,839 INFO  [main] com.serb.collection.TestCollections - cat2.equals(cat1)= true
+2010-03-26 10:53:50,839 INFO  [main] com.serb.collection.TestCollections - cat1.hashCode()= 2463988
+2010-03-26 10:53:50,839 INFO  [main] com.serb.collection.TestCollections - cat2.hashCode()= 2463988
+2010-03-26 10:53:50,854 INFO  [main] com.serb.collection.TestCollections - cat3.equals(cat1)= false
+2010-03-26 10:53:50,854 INFO  [main] com.serb.collection.TestCollections - cat3.hashCode()= 97893505
+2010-03-26 10:53:50,854 INFO  [main] com.serb.collection.TestCollections - -------END testEqualsAndHashCode()----------
+2010-03-26 10:54:36,697 INFO  [main] com.serb.collection.TestCollections - -------START testEqualsAndHashCode()----------
+2010-03-26 10:54:36,713 INFO  [main] com.serb.collection.TestCollections - cat1.equals(cat2)= true
+2010-03-26 10:54:36,713 INFO  [main] com.serb.collection.TestCollections - cat2.equals(cat2)= true
+2010-03-26 10:54:36,713 INFO  [main] com.serb.collection.TestCollections - cat2.equals(cat1)= true
+2010-03-26 10:54:36,713 INFO  [main] com.serb.collection.TestCollections - cat1.hashCode()= 2463988
+2010-03-26 10:54:36,713 INFO  [main] com.serb.collection.TestCollections - cat2.hashCode()= 2463988
+2010-03-26 10:54:36,713 INFO  [main] com.serb.collection.TestCollections - cat3.equals(cat1)= false
+2010-03-26 10:54:36,713 INFO  [main] com.serb.collection.TestCollections - cat3.hashCode()= 97893505
+2010-03-26 10:54:36,713 INFO  [main] com.serb.collection.TestCollections - -------END testEqualsAndHashCode()----------
+2010-03-26 10:56:52,288 INFO  [main] com.serb.collection.TestCollections - -------START testEqualsAndHashCode()----------
+2010-03-26 10:56:52,288 INFO  [main] com.serb.collection.TestCollections - cat1.equals(cat2)= true
+2010-03-26 10:56:52,288 INFO  [main] com.serb.collection.TestCollections - cat2.equals(cat2)= true
+2010-03-26 10:56:52,288 INFO  [main] com.serb.collection.TestCollections - cat2.equals(cat1)= true
+2010-03-26 10:56:52,304 INFO  [main] com.serb.collection.TestCollections - cat1.hashCode()= 2463988
+2010-03-26 10:56:52,304 INFO  [main] com.serb.collection.TestCollections - cat2.hashCode()= 2463988
+2010-03-26 10:56:52,304 INFO  [main] com.serb.collection.TestCollections - cat3.equals(cat1)= false
+2010-03-26 10:56:52,304 INFO  [main] com.serb.collection.TestCollections - cat3.hashCode()= 97893505
+2010-03-26 10:56:52,304 INFO  [main] com.serb.collection.TestCollections - -------END testEqualsAndHashCode()----------
+2010-04-21 11:39:51,880 INFO  [main] com.serb.serialization.TestSerialize - Test serialize
+2010-04-21 11:39:51,911 INFO  [main] com.serb.serialization.TestSerialize - ----------------------------------------
+2010-04-21 11:39:51,911 INFO  [main] com.serb.serialization.TestSerialize - ----------------Object Dog test serialize/deserialize------------------------
+2010-04-21 11:39:51,911 INFO  [main] com.serb.serialization.TestSerialize - Object Collar created with size= 3
+2010-04-21 11:39:51,911 INFO  [main] com.serb.serialization.TestSerialize - dog1.hashCode()= 30961619
+2010-04-21 11:45:40,924 INFO  [main] com.serb.serialization.TestSerialize - Test serialize
+2010-04-21 11:45:40,924 INFO  [main] com.serb.serialization.TestSerialize - ----------------------------------------
+2010-04-21 11:45:40,924 INFO  [main] com.serb.serialization.TestSerialize - ----------------Object Dog test serialize/deserialize------------------------
+2010-04-21 11:45:40,924 INFO  [main] com.serb.serialization.TestSerialize - Object Collar created with size= 3
+2010-04-21 11:45:40,924 INFO  [main] com.serb.serialization.TestSerialize - dog1.hashCode()= 13905160
