@@ -17,12 +17,7 @@ public class RunAbstractFactory {
         System.out.println(" and Products to specialize the behavior of your code)");
         System.out.println();
 
-        System.out.println("Creating U.S. Address and Phone Number:");
-        /*
-        AddressFactory USAddressFactory = new USAddressFactory();
-        Address usAddress = USAddressFactory.createAddress();
-        PhoneNumber usPhone = USAddressFactory.createPhoneNumber();
-         */
+        System.out.println("Creating U.S. Address and Phone Number:");       
         AddressFactory usAddressFactory = new USAddressFactory();
         Address usAddress = usAddressFactory.createAddress();
         PhoneNumber usPhone = usAddressFactory.createPhoneNumber();
@@ -45,10 +40,10 @@ public class RunAbstractFactory {
         Address uaAddress = uaAddressFactory.createAddress();
         PhoneNumber uaPhone = uaAddressFactory.createPhoneNumber();
 
-        uaAddress.setStreet("21 Chkalova");
+        uaAddress.setStreet("21 Sumskaja");
         uaAddress.setCity("Kharkov");
-        uaAddress.setPostalCode("61070");
-        uaPhone.setPhoneNumber("7524133");
+        uaAddress.setPostalCode("61000");
+        uaPhone.setPhoneNumber("7525608");
 
         System.out.println("Ukraine address:");
         System.out.println(uaAddress.getFullAddress());
