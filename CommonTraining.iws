@@ -15,7 +15,11 @@
     <option name="historyRevisionsNumber" value="4" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" readonly="true" id="f11cd750-6d79-4b1a-968f-8c5bc4e347c1" name="Default" comment="" />
+    <list default="true" readonly="true" id="f11cd750-6d79-4b1a-968f-8c5bc4e347c1" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CommonTraining.iws" afterPath="$PROJECT_DIR$/CommonTraining.iws" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/serb/sorting/opreg_test/Main.java" afterPath="$PROJECT_DIR$/src/com/serb/sorting/opreg_test/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CommonTraining.ipr" afterPath="$PROJECT_DIR$/CommonTraining.ipr" />
+    </list>
     <ignored path="CommonTraining.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -79,13 +83,11 @@
   <component name="FileColors" enabled="false" enabledForTabs="false" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="TestStrings.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="TestStrings.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/serb/strings/TestStrings.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="42" column="41" selection-start="1235" selection-end="1235" vertical-scroll-proportion="0.023400936">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="42" column="41" selection-start="1235" selection-end="1235" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -93,7 +95,18 @@
       <file leaf-file-name="Pyatnashki.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/serb/pyatnaski/Pyatnashki.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="155" column="58" selection-start="4718" selection-end="4718" vertical-scroll-proportion="0.0">
+            <state line="2" column="0" selection-start="29" selection-end="29" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/serb/sorting/opreg_test/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="36" selection-start="226" selection-end="226" vertical-scroll-proportion="0.14106584">
               <folding />
             </state>
           </provider>
@@ -132,7 +145,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/com/telesens/collection/IPredicate.java" />
         <option value="$PROJECT_DIR$/src/com/telesens/collection/IFunction.java" />
         <option value="$PROJECT_DIR$/src/com/telesens/collection/Employee.java" />
         <option value="$PROJECT_DIR$/src/com/telesens/common_tutorial/Callbacks.java" />
@@ -163,6 +175,7 @@
         <option value="$PROJECT_DIR$/src/com/serb/gc/CapabilitiesTest.java" />
         <option value="$PROJECT_DIR$/src/com/serb/pyatnaski/Pyatnashki.java" />
         <option value="$PROJECT_DIR$/src/com/serb/java2D/CapabilitiesTest.java" />
+        <option value="$PROJECT_DIR$/src/com/serb/sorting/opreg_test/Main.java" />
       </list>
     </option>
   </component>
@@ -266,7 +279,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
       <pane id="PackagesPane">
         <subPane>
@@ -279,9 +291,23 @@
               <option name="myItemId" value="Common_training" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewLibrariesNode" />
+              <option name="myItemId" value="CommonTraining" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Common_training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="serb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -293,10 +319,49 @@
               <option name="myItemId" value="Common_training" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="serb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sorting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CommonTraining" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Common_training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="serb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sorting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opreg_test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="Favorites" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -318,11 +383,11 @@
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
-    <property name="GoToClass.includeLibraries" value="false" />
     <property name="GenerateAntBuildDialog.backupFiles" value="true" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="options.searchVisible" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -595,7 +660,7 @@
     <option name="DETECT_NESTED_COPIES" value="false" />
     <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
     <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
-    <configuration useDefault="true">$PROJECT_DIR$/../../.subversion</configuration>
+    <configuration useDefault="true">$PROJECT_DIR$/../../../.subversion</configuration>
     <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
     <supportedVersion>125</supportedVersion>
   </component>
@@ -628,20 +693,20 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="2048" height="1102" extended-state="1" />
+    <frame x="0" y="25" width="2048" height="1102" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.13843648" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24974924" sideWeight="0.6788618" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3140244" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="46" y="347" width="1225" height="431" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31380337" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="46" y="347" width="1225" height="431" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31910568" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3262195" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24736415" sideWeight="0.67209303" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21815446" sideWeight="0.6788618" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3998378" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22367102" sideWeight="0.6788618" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22367102" sideWeight="0.6737805" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3267442" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34527686" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -673,7 +738,7 @@
     <option name="ENABLE_BACKGROUND_PROCESSES" value="false" />
     <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test commit from IDE JetBrains IDEA" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -686,6 +751,7 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="Test commit from IDE JetBrains IDEA" />
   </component>
   <component name="VssConfiguration">
     <option name="CLIENT_PATH" value="" />
@@ -739,33 +805,36 @@
         <state line="5" column="26" selection-start="163" selection-end="174" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/serb/pyatnaski/Pyatnashki.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="155" column="58" selection-start="4718" selection-end="4718" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/serb/java2D/CapabilitiesTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="0" selection-start="1818" selection-end="1818" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="41" column="0" selection-start="1818" selection-end="1818" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/serb/junit/TestBoundedBuffer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="32" selection-start="886" selection-end="886" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="29" column="32" selection-start="886" selection-end="886" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/serb/strings/TestStrings.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="41" selection-start="1235" selection-end="1235" vertical-scroll-proportion="0.023400936">
+        <state line="42" column="41" selection-start="1235" selection-end="1235" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/serb/pyatnaski/Pyatnashki.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="29" selection-end="29" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/serb/sorting/opreg_test/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="36" selection-start="226" selection-end="226" vertical-scroll-proportion="0.14106584">
+          <folding />
         </state>
       </provider>
     </entry>

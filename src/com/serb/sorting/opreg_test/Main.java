@@ -9,6 +9,7 @@ import java.util.Random;
  * Created by sbezugliy
  * Date: 30.09.2009
  */
+//TODO:delete it
 public class Main {
 
     private static Random randomGenerator;
