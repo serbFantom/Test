@@ -7,7 +7,7 @@ package com.serb.test_patterns.abstract_factory;
  * Time: 14:08:18
  */
 
-public interface AddressFactory{
+public interface AddressFactory {
     public Address createAddress();
     public PhoneNumber createPhoneNumber();
 }

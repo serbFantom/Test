@@ -1,13 +1,11 @@
 package com.serb.collection;
 
 import com.serb.serialization.Dog;
-//import org.apache.commons.lang.time.DateUtils;
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 
-import java.util.*;
-
 import java.text.ParseException;
+import java.util.*;
 
 
 /**
@@ -16,7 +14,7 @@ import java.text.ParseException;
  */
 
 public class TestCollections {
-    
+
     private static Logger log = Logger.getLogger(TestCollections.class.getName());
     private static Random randomGenerator;
 
@@ -28,7 +26,6 @@ public class TestCollections {
     enum Pets {
         DOG, CAT, HORSE
     }
-
 
 
     static class PQsort implements Comparator<Integer> { // inverse sort
@@ -60,15 +57,22 @@ public class TestCollections {
         //m.put(1.0, "Hello");  	//3
         //testEqualsAndHashCode();
         //testSetsOrder();
-        //testListOrder();
+        List<Integer> testIntList = Arrays.asList(1,2,3,4);
+        testIntList.set(1,1234);
+        printContainer(testIntList.iterator());
+        //testIntList.add(34);
+
+        testListOrder();
         //testTypesForArrayList();
         //testMapOrder();
 
         //testMapOrder();
-        //testSetOperations();
-        testTypesForMaps();
+        //testSetOperations()
+        //Object
 
-    }
+
+        //testTypesForMaps();
+}
 
     /**
      * Lists of things (classes that implement List).
@@ -478,16 +482,16 @@ public class TestCollections {
 
     static void testEqualsAndHashCode() {
         log.info("-------START testEqualsAndHashCode()----------");
-        Cat cat1=new Cat("Amy",10);
-        Cat cat2=new Cat("Amy",10);
-        log.info("cat1.equals(cat2)= "+cat1.equals(cat2));
-        log.info("cat2.equals(cat2)= "+cat2.equals(cat2));
-        log.info("cat2.equals(cat1)= "+cat2.equals(cat1));
-        log.info("cat1.hashCode()= "+cat1.hashCode());
-        log.info("cat2.hashCode()= "+cat2.hashCode());
-        Cat cat3=new Cat("Uria",15);
-        log.info("cat3.equals(cat1)= "+cat3.equals(cat1));
-        log.info("cat3.hashCode()= "+cat3.hashCode());
+        Cat cat1 = new Cat("Amy", 10);
+        Cat cat2 = new Cat("Amy", 10);
+        log.info("cat1.equals(cat2)= " + cat1.equals(cat2));
+        log.info("cat2.equals(cat2)= " + cat2.equals(cat2));
+        log.info("cat2.equals(cat1)= " + cat2.equals(cat1));
+        log.info("cat1.hashCode()= " + cat1.hashCode());
+        log.info("cat2.hashCode()= " + cat2.hashCode());
+        Cat cat3 = new Cat("Uria", 15);
+        log.info("cat3.equals(cat1)= " + cat3.equals(cat1));
+        log.info("cat3.hashCode()= " + cat3.hashCode());
         log.info("-------END testEqualsAndHashCode()----------");
     }
 
@@ -538,15 +542,13 @@ public class TestCollections {
         sortedSet.add("6");
 
 
-
-
         System.out.println("TreeSet test");
         for (String value : sortedSet)
             System.out.println(value);
     }
 
     static void testListOrder() {
-        
+
         List<String> arrayList = new ArrayList<String>();
 
         arrayList.add("1");
@@ -591,80 +593,81 @@ public class TestCollections {
     }
 
     static void testTypesForArrayList() {
-        List list=new LinkedList();
-        
+        List list = new LinkedList();
+
         list.add(new Employee());
         list.add(new Cat());
-        Collections.addAll(list,1,2,4);
-        for(Object obj:list) {
+        Collections.addAll(list, 1, 2, 4);
+        for (Object obj : list) {
             System.out.println(obj);
         }
     }
 
 
-     static void testMapOrder() {         
-         //Test not ordered Map->HashMap
-         Map<Object,Object> notOrderedMap=new HashMap<Object,Object>();
-         notOrderedMap.put("1","First");
-         notOrderedMap.put("2","Second");
-         notOrderedMap.put("3","Third");
-         notOrderedMap.put("4","Fourth");
-         notOrderedMap.put(new Cat(),"Five");
-         System.out.println("HashMap test");
-         printContainer(notOrderedMap.values().iterator());
-         /*for (Object value:notOrderedMap.values()) {
-             System.out.println(value);
-         } */
-         //Test ordered Map->LinkedHashMap
-         Map<Object,Object> orderedMap=new LinkedHashMap<Object,Object>();
-         orderedMap.put("4","Fourth");
-         orderedMap.put("1","First");
-         orderedMap.put("2","Second");
-         orderedMap.put("3","Third");
-         orderedMap.put(new Cat(),"Five");
+    static void testMapOrder() {
+        //Test not ordered Map->HashMap
+        Map<Object, Object> notOrderedMap = new HashMap<Object, Object>();
+        notOrderedMap.put("1", "First");
+        notOrderedMap.put("2", "Second");
+        notOrderedMap.put("3", "Third");
+        notOrderedMap.put("4", "Fourth");
+        notOrderedMap.put(new Cat(), "Five");
+        System.out.println("HashMap test");
+        printContainer(notOrderedMap.values().iterator());
+        /*for (Object value:notOrderedMap.values()) {
+           System.out.println(value);
+       } */
+        //Test ordered Map->LinkedHashMap
+        Map<Object, Object> orderedMap = new LinkedHashMap<Object, Object>();
+        orderedMap.put("4", "Fourth");
+        orderedMap.put("1", "First");
+        orderedMap.put("2", "Second");
+        orderedMap.put("3", "Third");
+        orderedMap.put(new Cat(), "Five");
 
-         System.out.println("LinkedHashMap test");
-         printContainer(orderedMap.values().iterator());
-         /*for (Object value:orderedMap.values()) {
-             System.out.println(value);
-         } */
+        System.out.println("LinkedHashMap test");
+        printContainer(orderedMap.values().iterator());
+        /*for (Object value:orderedMap.values()) {
+           System.out.println(value);
+       } */
 
-         //Test sorted by keys Map->TreeHashMap
-         Map<Object,Object> sortedMap=new TreeMap<Object,Object>();
+        //Test sorted by keys Map->TreeHashMap
+        Map<Object, Object> sortedMap = new TreeMap<Object, Object>();
 
-         sortedMap.put("1","First");
-         sortedMap.put("4","Fourth");
-         sortedMap.put("3","Third");
-         sortedMap.put("2","Second");
+        sortedMap.put("1", "First");
+        sortedMap.put("4", "Fourth");
+        sortedMap.put("3", "Third");
+        sortedMap.put("2", "Second");
 
-         //sortedMap.put(new Cat(),"Five"); //this will be exception in runtime 
+        //sortedMap.put(new Cat(),"Five"); //this will be exception in runtime
 
 
-         System.out.println("LinkedHashMap test");
-         printContainer(sortedMap.values().iterator());
-         /*for (Object value:sortedMap.values()) {
-             System.out.println(value);
-         } */
-     }
+        System.out.println("LinkedHashMap test");
+        printContainer(sortedMap.values().iterator());
+        /*for (Object value:sortedMap.values()) {
+           System.out.println(value);
+       } */
+    }
 
     /**
      * For show how can Iterator work
+     *
      * @param it iterator of Collection
      */
-    static void printContainer(Iterator<Object> it) {
+    static void printContainer(Iterator it) { //<Object>
         while (it.hasNext()) {
             System.out.println(it.next());
         }
     }
 
     static void testTypesForMaps() {
-        Random rand=new Random(47);
-        Map<Integer,Integer> intMap=new HashMap<Integer,Integer>();
-        for (int i=0;i<10000;i++) {
+        Random rand = new Random(47);
+        Map<Integer, Integer> intMap = new HashMap<Integer, Integer>();
+        for (int i = 0; i < 10000; i++) {
             //get random integer from 0 to 20
-            int r=rand.nextInt(20);
-            Integer freq=intMap.get(r);
-            intMap.put(r,freq==null?1:freq+1);
+            int r = rand.nextInt(20);
+            Integer freq = intMap.get(r);
+            intMap.put(r, freq == null ? 1 : freq + 1);
         }
         System.out.println(intMap);
     }
@@ -674,28 +677,33 @@ public class TestCollections {
      * Use TreeSet for comfortable view
      */
     static void testSetOperations() {
-        Set<String> setStr1=new TreeSet<String>();
-        Collections.addAll(setStr1,"A B C D E F G H I J K L".split(" "));
+        Set<String> setStr1 = new TreeSet<String>();
+        Collections.addAll(setStr1, "A B C D E F G H I J K L".split(" "));
         setStr1.add("M");
-        System.out.println("H "+setStr1.contains("H"));
-        System.out.println("N "+setStr1.contains("N"));
+        System.out.println("H " + setStr1.contains("H"));
+        System.out.println("N " + setStr1.contains("N"));
 
-        Set<String> setStr2=new TreeSet<String>();
-        Collections.addAll(setStr2,"H I J K L".split(" "));
-        System.out.println("setStr2 in setStr1 "+setStr1.containsAll(setStr2));
+        Set<String> setStr2 = new TreeSet<String>();
+        Collections.addAll(setStr2, "H I J K L".split(" "));
+        System.out.println("setStr2 in setStr1 " + setStr1.containsAll(setStr2));
         setStr2.remove("H");
-        System.out.println("setStr1= "+setStr1);
-        System.out.println("setStr2 in setStr1 "+setStr1.containsAll(setStr2));
+        System.out.println("setStr1= " + setStr1);
+        System.out.println("setStr2 in setStr1 " + setStr1.containsAll(setStr2));
         setStr1.removeAll(setStr2);
         System.out.println("setStr2 removed from setStr1");
-        System.out.println("setStr1= "+setStr1);
-        Collections.addAll(setStr1,"X Y Z".split(" "));
+        System.out.println("setStr1= " + setStr1);
+        Collections.addAll(setStr1, "X Y Z".split(" "));
         System.out.println("X Y Z was added to setStr1");
-        System.out.println("setStr1= "+setStr1);
+        System.out.println("setStr1= " + setStr1);
     }
 
     static void testQueuesOperations() {
+
+    }
+
+    static void testListFeatures() {
         
     }
+
 
 }

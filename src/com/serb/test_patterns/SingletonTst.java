@@ -15,10 +15,12 @@ public class SingletonTst {
     public static SingletonTst getInstance() {
         if (_singletonTest==null)
             return new SingletonTst();
-        return _singletonTest;    
+        return _singletonTest;
     }
 
     public static void main(String [] args) {
         System.out.println("Singleton Test");
+        SingletonTst singleton = SingletonTst.getInstance();
+        //SingletonTst singleton2 = singleton.clone();
     }
 }

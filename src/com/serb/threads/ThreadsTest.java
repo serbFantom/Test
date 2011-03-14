@@ -80,7 +80,7 @@ public class ThreadsTest {
         System.out.printf("12%1$s", "13%1$s", "14%1$s");
         StringBuilder st = new StringBuilder("s");*/
 
-        
+                  
 
         //testThreadInteraction2();
 
@@ -106,11 +106,32 @@ public class ThreadsTest {
         threads.add(th3);
         threads.add(th4);*/
         //testThreadPool(threads);
-        ThreadsTest thTest=new ThreadsTest();
-        //thTest.testInterruptThread();
-        thTest.testThreadStop();
+        /*ThreadsTest thTest=new ThreadsTest();
+        thTest.testInterruptThread();*/
+        //Thread.sleep(1500);
+        //thTest.testThreadStop();
 
         //thTest.testDeadlock();
+        for (int i = 1; i <= 100; i++)
+        {
+            boolean somethingFound = false;
+            if (i%3 == 0)
+            {
+                somethingFound=true;
+                System.out.print("Fizz");
+            }
+            if (i%5 == 0)
+            {
+                somethingFound=true;
+                System.out.print("Buzz");
+            }
+            if (!somethingFound) {
+                System.out.print("i= "+i);
+            }
+            System.out.print("\n");
+        }
+        System.out.println("System.getProperty(os.version): "+System.getProperty("os.name")+System.getProperty("os.version"));
+        //Thread.dumpStack();
 
     }
 
@@ -131,10 +152,14 @@ public class ThreadsTest {
     }
 
     @SuppressWarnings({"deprecation"})
+    /**
+     * To show how the thread.stop() work which is now deprecated
+     */
     private void testThreadStop() throws Exception {
         ContinousThread continousThread=this.new ContinousThread();
         System.out.println("Start continousThread from main thread");
         continousThread.start();
+        Thread.dumpStack();
         Thread.sleep(2500);
         continousThread.stop();
     }
@@ -343,7 +368,7 @@ public class ThreadsTest {
         public void run() {
             while (true) {
                 try {
-                    Thread.sleep(2000);
+                    Thread.sleep(20000);
                     System.out.println("===ContinousThread working===");
                     if (this.isInterrupted()) {
                         System.out.println("!!!!Thread ContinousThread has recieve interrupt flag " +

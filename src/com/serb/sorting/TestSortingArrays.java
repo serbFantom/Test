@@ -9,7 +9,11 @@ import java.util.*;
  * Time: 18:47:15
  */
 public class TestSortingArrays {
-    protected double i234;    
+    protected double i234;
+
+    private final static int SIZE = 100000000;
+	private final static int MAX = 10000000;
+
 
     public static void main(String args[]) {
         /*Object o="=";
@@ -26,10 +30,15 @@ public class TestSortingArrays {
         //reverseString2("abcdefgh");
         //reverseString3("abcdefgh");
         
-        reverseString4("abcdefgh");
-
-
-        
+        //reverseString4("abcdefgh");
+        Random rand = new Random();
+        int[] numbers = new int[SIZE];
+        for (int i=0; i < numbers.length; i++) {
+            numbers[i] = rand.nextInt(MAX);
+        }
+        QuickSortTest quickSort = new QuickSortTest();
+        boolean printValues = false;
+        quickSort.sort(numbers, printValues);//new int[] {10, 6, 7, 1, 2, 3, 4, 8, 9, 5}                
     }
 
     void someMethod () {

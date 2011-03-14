@@ -24,7 +24,7 @@ public class Cat implements Comparable<Cat>{
         this.name = name;
         this.catSize = catSize;
     }
-
+    @Override
     public boolean equals(Object obj) {
         return this == obj || obj instanceof Cat && this.equals((Cat) obj);
     }
