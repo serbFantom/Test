@@ -31,15 +31,38 @@ public class TestSortingArrays {
         //reverseString3("abcdefgh");
         
         //reverseString4("abcdefgh");
-        Random rand = new Random();
+        /*Random rand = new Random();
         int[] numbers = new int[SIZE];
         for (int i=0; i < numbers.length; i++) {
             numbers[i] = rand.nextInt(MAX);
         }
         QuickSortTest quickSort = new QuickSortTest();
         boolean printValues = false;
-        quickSort.sort(numbers, printValues);//new int[] {10, 6, 7, 1, 2, 3, 4, 8, 9, 5}                
+        quickSort.sort(numbers, printValues);//new int[] {10, 6, 7, 1, 2, 3, 4, 8, 9, 5}*/
+
+        int[] testArray = new int[] {10,5,7,8,6,2,0,1,9,4,3,11};
+        //System.out.println(testArray);
+        printArray(testArray);
+        bubblesort(testArray);
+        printArray(testArray);
+        //System.out.println(testArray);
     }
+
+    static void swap(int[] arr, int i, int j) {
+        int t = arr[i];
+        arr[i] = arr[j];
+        arr[j] = t;
+    }
+
+    static void bubblesort(int[] arr){
+        for(int i = arr.length-1 ; i >= 0 ; i--){
+            for(int j = 0 ; j < i ; j++){
+                if( arr[j] > arr[j+1] )
+                   swap(arr, j, j+1);
+            }
+        }
+    }
+
 
     void someMethod () {
 
@@ -50,7 +73,16 @@ public class TestSortingArrays {
 
     }
     
-
+    public static void printArray(int[] arr) {
+        for (int i=0;i<arr.length;i++){
+            if (arr.length-1!=i) {
+                System.out.print(arr[i]+",");
+            } else {
+                System.out.print(arr[i]);
+            }
+        }
+        System.out.println();
+    }
 
     public static void printArray(Object[] arr) {
         for (int i=0;i<arr.length;i++){

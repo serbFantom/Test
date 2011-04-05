@@ -17,9 +17,10 @@
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="f11cd750-6d79-4b1a-968f-8c5bc4e347c1" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CommonTraining.iws" afterPath="$PROJECT_DIR$/CommonTraining.iws" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/serb/sorting/TestSortingArrays.java" afterPath="$PROJECT_DIR$/src/com/serb/sorting/TestSortingArrays.java" />
     </list>
-    <ignored path=".idea/workspace.xml" />
     <ignored path="CommonTraining.iws" />
+    <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,17 +86,33 @@
         <entry file="file://$PROJECT_DIR$/src/com/serb/collection/TestCollections.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="621" column="40" selection-start="21818" selection-end="21818" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Pyatnashki.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/serb/pyatnaski/Pyatnashki.java">
+      <file leaf-file-name="TestSortingArrays.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/serb/sorting/TestSortingArrays.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="155" column="6" selection-start="4666" selection-end="4666" vertical-scroll-proportion="0.73913044">
+            <state line="42" column="40" selection-start="1161" selection-end="1161" vertical-scroll-proportion="0.22959183">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PrintStream.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar:///usr/lib/jvm/java-6-sun/src.zip!/java/io/PrintStream.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="769" column="16" selection-start="25049" selection-end="25049" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QuickSortTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/serb/sorting/QuickSortTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="16" selection-start="201" selection-end="201" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -183,7 +200,6 @@
         <option value="$PROJECT_DIR$/src/com/serb/test_patterns/abstract_factory/AddressFactory.java" />
         <option value="$PROJECT_DIR$/src/com/serb/test_patterns/SingletonTst2.java" />
         <option value="$PROJECT_DIR$/src/com/serb/test_patterns/SingletonTst.java" />
-        <option value="$PROJECT_DIR$/src/com/serb/sorting/TestSortingArrays.java" />
         <option value="$PROJECT_DIR$/src/com/serb/sorting/QuickSortTest.java" />
         <option value="$PROJECT_DIR$/src/com/serb/threads/ThreadsTest.java" />
         <option value="$PROJECT_DIR$/src/com/serb/strings/TestStrings.java" />
@@ -197,6 +213,7 @@
         <option value="$PROJECT_DIR$/src/com/serb/io/AddPackages.java" />
         <option value="$PROJECT_DIR$/src/com/serb/db/mysql/TestDB2.java" />
         <option value="$PROJECT_DIR$/src/com/serb/collection/TestCollections.java" />
+        <option value="$PROJECT_DIR$/src/com/serb/sorting/TestSortingArrays.java" />
       </list>
     </option>
   </component>
@@ -303,6 +320,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane">
         <subPane>
           <PATH>
@@ -317,24 +335,23 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Favorites" />
       <pane id="ProjectPane" />
-      <pane id="Scope" />
+      <pane id="Favorites" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="project.structure.last.edited" value="Modules" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="472" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="292" />
-    <property name="project.structure.proportion" value="0.15" />
     <property name="OverrideImplement.combined" value="true" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="292" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="RunManagerConfig.showSettingsBeforeRunnig" value="false" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="278" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
-    <property name="recentsLimit" value="5" />
-    <property name="GenerateAntBuildDialog.generateSingleFile" value="false" />
     <property name="MemberChooser.sorted" value="false" />
+    <property name="GenerateAntBuildDialog.generateSingleFile" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="278" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
     <property name="last_opened_file_path" value="D:\Projects\NPS\Project" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="446" />
@@ -350,18 +367,18 @@
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
     <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
     <property name="options.lastSelected" value="reference.settings.ide.settings.web.browsers" />
-    <property name="project.structure.side.proportion" value="0.38728324" />
     <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="project.structure.side.proportion" value="0.38728324" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GenerateAntBuildDialog.backupFiles" value="true" />
-    <property name="dynamic.classpath" value="false" />
     <property name="options.searchVisible" value="true" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -372,7 +389,7 @@
       <recent name="com.telesens.dates" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestCollections">
+  <component name="RunManager" selected="Application.TestSortingArrays">
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -827,14 +844,15 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3285568" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.13843648" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24974924" sideWeight="0.6788618" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3623337" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="46" y="347" width="1225" height="431" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3285568" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32958034" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3623337" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="46" y="347" width="1225" height="431" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3285568" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3183214" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32548618" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.247112" sideWeight="0.6305015" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21815446" sideWeight="0.6788618" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3997991" sideWeight="0.66325486" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18633853" sideWeight="0.6642784" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18633853" sideWeight="0.6305015" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32548618" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34527686" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -844,7 +862,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32958034" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="EJB" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Module Dependencies" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -926,21 +943,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///usr/lib/jvm/java-6-sun/src.zip!/java/io/PrintWriter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="407" column="16" selection-start="13420" selection-end="13420" vertical-scroll-proportion="0.33333334" />
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-6-sun/src.zip!/java/io/FilenameFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="10" selection-start="729" selection-end="729" vertical-scroll-proportion="0.5102041" />
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-6-sun/src.zip!/java/lang/AssertionError.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="11" selection-start="1903" selection-end="1903" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="jar:///usr/lib/jvm/java-6-sun/src.zip!/java/lang/IllegalAccessException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="55" column="11" selection-start="2100" selection-end="2100" vertical-scroll-proportion="0.8064516" />
@@ -983,142 +985,123 @@
     </entry>
     <entry file="jar:///usr/lib/jvm/java-6-sun/src.zip!/java/sql/ResultSet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="129" column="17" selection-start="5963" selection-end="5963" vertical-scroll-proportion="-0.22789116">
-          <folding />
-        </state>
+        <state line="129" column="17" selection-start="5963" selection-end="5963" vertical-scroll-proportion="-0.22789116" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/serb/db/mysql/TestDB.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="78" selection-start="836" selection-end="836" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="27" column="78" selection-start="836" selection-end="836" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="jar:///usr/lib/jvm/java-6-sun/src.zip!/java/util/Random.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="12" selection-start="1503" selection-end="1509" vertical-scroll-proportion="0.81632656">
-          <folding />
-        </state>
+        <state line="39" column="12" selection-start="1503" selection-end="1509" vertical-scroll-proportion="0.81632656" />
       </provider>
     </entry>
     <entry file="jar:///usr/lib/jvm/java-6-sun/src.zip!/java/util/Collection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="42" selection-start="163" selection-end="163" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="5" column="42" selection-start="163" selection-end="163" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="jar:///usr/lib/jvm/java-6-sun/src.zip!/java/util/Collections.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="13" selection-start="2180" selection-end="2180" vertical-scroll-proportion="0.33333334">
-          <folding />
-        </state>
+        <state line="53" column="13" selection-start="2180" selection-end="2180" vertical-scroll-proportion="0.33333334" />
       </provider>
     </entry>
     <entry file="jar:///usr/lib/jvm/java-6-sun/src.zip!/java/util/List.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="89" column="38" selection-start="4147" selection-end="4147" vertical-scroll-proportion="0.33333334">
-          <folding />
-        </state>
+        <state line="89" column="38" selection-start="4147" selection-end="4147" vertical-scroll-proportion="0.33333334" />
       </provider>
     </entry>
     <entry file="jar:///usr/lib/jvm/java-6-sun/src.zip!/java/sql/DriverManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="169" column="29" selection-start="6726" selection-end="6726" vertical-scroll-proportion="0.33333334">
-          <folding />
-        </state>
+        <state line="169" column="29" selection-start="6726" selection-end="6726" vertical-scroll-proportion="0.33333334" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/serb/junit/SwingUtilities.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="16" selection-start="521" selection-end="521" vertical-scroll-proportion="0.43367347">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-6-sun/src.zip!/java/lang/Runtime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="610" column="22" selection-start="25151" selection-end="25151" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="18" column="16" selection-start="521" selection-end="521" vertical-scroll-proportion="0.43367347" />
       </provider>
     </entry>
     <entry file="jar:///usr/lib/jvm/java-6-sun/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="106" column="11" selection-start="4796" selection-end="4796" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="106" column="11" selection-start="4796" selection-end="4796" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="jar:///usr/lib/jvm/java-6-sun/src.zip!/java/lang/Iterable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="17" selection-start="346" selection-end="346" vertical-scroll-proportion="0.25510204">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/serb/db/mysql/TestDB2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="9" selection-start="864" selection-end="864" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="15" column="17" selection-start="346" selection-end="346" vertical-scroll-proportion="0.25510204" />
       </provider>
     </entry>
     <entry file="jar:///usr/lib/jvm/java-6-sun/src.zip!/java/util/Queue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="115" column="17" selection-start="4877" selection-end="4877" vertical-scroll-proportion="0.33333334">
-          <folding />
-        </state>
+        <state line="115" column="17" selection-start="4877" selection-end="4877" vertical-scroll-proportion="0.33333334" />
       </provider>
     </entry>
     <entry file="jar:///usr/lib/jvm/java-6-sun/src.zip!/java/util/Deque.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="165" column="38" selection-start="6044" selection-end="6044" vertical-scroll-proportion="0.33333334">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-6-sun/src.zip!/java/util/ArrayDeque.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="41" selection-start="2559" selection-end="2559" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="165" column="38" selection-start="6044" selection-end="6044" vertical-scroll-proportion="0.33333334" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/serb/strings/TestStrings.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="271" column="25" selection-start="9334" selection-end="9337" vertical-scroll-proportion="0.015806112">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/serb/io/AddPackages.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="104" column="48" selection-start="4348" selection-end="4348" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="271" column="25" selection-start="9334" selection-end="9337" vertical-scroll-proportion="0.015806112" />
       </provider>
     </entry>
     <entry file="jar:///usr/lib/jvm/java-6-sun/src.zip!/java/util/Map.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="204" column="6" selection-start="10141" selection-end="10141" vertical-scroll-proportion="0.0">
+        <state line="204" column="6" selection-start="10141" selection-end="10141" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-6-sun/src.zip!/java/util/ArrayDeque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="41" selection-start="2559" selection-end="2559" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/serb/db/mysql/TestDB2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="9" selection-start="864" selection-end="864" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-6-sun/src.zip!/java/lang/Runtime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="610" column="22" selection-start="25151" selection-end="25151" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/serb/io/AddPackages.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="104" column="48" selection-start="4348" selection-end="4348" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/serb/pyatnaski/Pyatnashki.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="155" column="6" selection-start="4666" selection-end="4666" vertical-scroll-proportion="0.015806112">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/serb/collection/TestCollections.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="621" column="40" selection-start="21818" selection-end="21818" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="621" column="40" selection-start="21818" selection-end="21818" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/serb/sorting/QuickSortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="16" selection-start="201" selection-end="201" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/serb/pyatnaski/Pyatnashki.java">
+    <entry file="jar:///usr/lib/jvm/java-6-sun/src.zip!/java/io/PrintStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="155" column="6" selection-start="4666" selection-end="4666" vertical-scroll-proportion="0.73913044">
+        <state line="769" column="16" selection-start="25049" selection-end="25049" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/serb/sorting/TestSortingArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="40" selection-start="1161" selection-end="1161" vertical-scroll-proportion="0.22959183">
           <folding />
         </state>
       </provider>
