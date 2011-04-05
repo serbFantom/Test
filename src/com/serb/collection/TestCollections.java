@@ -57,12 +57,16 @@ public class TestCollections {
         //m.put(1.0, "Hello");  	//3
         //testEqualsAndHashCode();
         //testSetsOrder();
-        List<Integer> testIntList = Arrays.asList(1,2,3,4);
+        /*List<Integer> testIntList = Arrays.asList(1,2,3,4);
         testIntList.set(1,1234);
-        printContainer(testIntList.iterator());
+        printContainer(testIntList.iterator());*/
         //testIntList.add(34);
 
-        testListOrder();
+
+
+        //testMaps();
+        //testListOrder();
+
         //testTypesForArrayList();
         //testMapOrder();
 
@@ -72,6 +76,8 @@ public class TestCollections {
 
 
         //testTypesForMaps();
+
+        testMapOrder();
 }
 
     /**
@@ -613,7 +619,8 @@ public class TestCollections {
         notOrderedMap.put("4", "Fourth");
         notOrderedMap.put(new Cat(), "Five");
         System.out.println("HashMap test");
-        printContainer(notOrderedMap.values().iterator());
+        System.out.println(notOrderedMap);
+        //printContainer(notOrderedMap.values().iterator());
         /*for (Object value:notOrderedMap.values()) {
            System.out.println(value);
        } */
@@ -623,10 +630,11 @@ public class TestCollections {
         orderedMap.put("1", "First");
         orderedMap.put("2", "Second");
         orderedMap.put("3", "Third");
-        orderedMap.put(new Cat(), "Five");
+        orderedMap.put("6", "Five");
 
         System.out.println("LinkedHashMap test");
-        printContainer(orderedMap.values().iterator());
+        //printContainer(orderedMap.values().iterator());
+        System.out.println(orderedMap);
         /*for (Object value:orderedMap.values()) {
            System.out.println(value);
        } */
@@ -642,8 +650,9 @@ public class TestCollections {
         //sortedMap.put(new Cat(),"Five"); //this will be exception in runtime
 
 
-        System.out.println("LinkedHashMap test");
-        printContainer(sortedMap.values().iterator());
+        System.out.println("TreeMap test");
+        //printContainer(sortedMap.values().iterator());
+        System.out.println(sortedMap);
         /*for (Object value:sortedMap.values()) {
            System.out.println(value);
        } */
